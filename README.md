@@ -1,6 +1,9 @@
 # Semantic Segmentation
+
+
 ### Introduction
-In this project, you'll label the pixels of a road in images using a Fully Convolutional Network (FCN).
+The goal of this project is to construct a FCNN based on the VGG-16 image classifier architecture for performing semantic segmentation to identify empty space on the road from an car dashcam image. The datasets are given and the model is trained and tested on the KITTI data set.
+
 
 ### Setup
 ##### Frameworks and Packages
